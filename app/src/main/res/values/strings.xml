@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Crime Management System</string>
+    <string name="login">login</string>
+    <string name="username">Username</string>
+    <string name="sign_up_here">sign up here</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fullname">Filename</string>
+    <string name="email">Email</string>
+    <string name="log_in_here">Log in here</string>
+    <string name="street">Street</string>
+    <string name="submit">SUBMIT</string>
+    <string name="specific_location">Specific Location</string>
+    <string name="crime_description">Crime Description</string>
+
+    <string-array name="County">
+        <item>Mombasa</item>
+        <item>Nakuru</item>
+        <item>Baringo</item>
+        <item>Nairobi</item>
+        <item>Kajiado</item>
+    </string-array>
+
+    <string-array name="mombasa_subcounty">
+        <item>Changamwe</item>
+        <item>Jomvu</item>
+        <item>Kisauni</item>
+        <item>Nyali</item>
+        <item>Likoni</item>
+        <item>Mvita</item>
+    </string-array>
+
+    <string-array name="nakuru_subcounty">
+        <item>Naivasha</item>
+        <item>Nakuru Town</item>
+        <item>Kuresoi North</item>
+        <item>Kuresoi South</item>
+        <item>Njoro</item>
+        <item>Nakuru East</item>
+        <item>Gilgil</item>
+        <item>Molo</item>
+        <item>Subukia</item>
+    </string-array>
+
+    <string-array name="baringo_subcounty">
+        <item>Baringo Central</item>
+        <item>Baringo South</item>
+        <item>Baringo North</item>
+        <item>Eldama Ravine</item>
+        <item>Mogotio</item>
+        <item>Tiaty</item>
+    </string-array>
+
+    <string-array name="nairobi_subcounty">
+        <item>Central</item>
+        <item>Dagoretti</item>
+        <item>Embakasi</item>
+        <item>Kasarani</item>
+        <item>Kibera</item>
+        <item>Makadara</item>
+        <item>Pumwani</item>
+        <item>Westlands</item>
+    </string-array>
+
+    <string-array name="kajiado_subcounty">
+        <item>Kajiado Central</item>
+        <item>Kajiado North</item>
+        <item>Kajiado East</item>
+        <item>Kajiado West</item>
+        <item>Kajiado South</item>
+    </string-array>
+
+</resources>
